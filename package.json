@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Loopback Kue Connector",
   "main": "index.js",
-  "repository": "https://bitbucket.org/atelierfabien/loopback-connector-kue",
+  "repository": "https://github.com/fabien/loopback-connector-kue",
   "scripts": {
     "test": "NODE_ENV=test mocha -s 500 -t 10000 --reporter spec",
     "process": "NODE_ENV=test node workers/task.js"
