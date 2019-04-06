@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-kue",
+  "name": "@atelierfabien/loopback-connector-kue",
   "version": "0.0.1",
   "description": "Loopback Kue Connector",
   "main": "index.js",
